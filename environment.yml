@@ -3,7 +3,7 @@ channels:
   - ilastik-forge
   - conda-forge
 dependencies:
-  - python>=3.8
+  - python=3.10
   - numpy=1.24.2
   - fastfilters
   - lemon
